@@ -2,5 +2,5 @@
 Alle bestanden voor Expanding Space
 
 
-In deze repository komen alle bestande voor onze space game.
+In deze repository komen alle bestanden voor onze space game.
 
